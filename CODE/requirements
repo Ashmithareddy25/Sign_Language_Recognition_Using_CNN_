@@ -1,0 +1,8 @@
+streamlit==1.39.0
+tensorflow-cpu==2.12.0
+keras==2.12.0
+opencv-python-headless==4.8.1.78
+cvzone==1.6.1
+numpy==1.23.5
+gTTS==2.5.1
+Pillow==10.0.1
