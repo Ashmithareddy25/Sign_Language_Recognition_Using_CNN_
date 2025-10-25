@@ -2,6 +2,7 @@
 
 This project is an AI-powered **Sign Language Recognition System** built using **Convolutional Neural Networks (CNN)** and **Flask Web Framework**.  
 It recognizes American Sign Language (A–Z) hand gestures from images or live webcam input and converts them into corresponding alphabets — even speaking the output aloud using **Google Text-to-Speech (gTTS)**.
+![Website Page](output.png)
 
 ---
 
