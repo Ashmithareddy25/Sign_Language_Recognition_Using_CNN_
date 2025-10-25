@@ -6,5 +6,6 @@ gTTS
 numpy
 gunicorn
 pillow
+cvzone
 
 
