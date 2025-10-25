@@ -7,5 +7,6 @@ numpy
 gunicorn
 pillow
 cvzone
+mediapipe
 
 
