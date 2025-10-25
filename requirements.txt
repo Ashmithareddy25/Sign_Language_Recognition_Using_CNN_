@@ -1,3 +1,4 @@
+streamlit
 flask
 tensorflow
 opencv-python-headless
